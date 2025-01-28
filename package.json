@@ -1,0 +1,17 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "this is first project for backend",
+  "license": "ISC",
+  "author": "Nikhil",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
